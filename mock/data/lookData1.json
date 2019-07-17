@@ -1,0 +1,32 @@
+{
+	"code": 20000,
+	"msg": "请求成功",
+	"data":{
+		"number": 0,
+		"name": "南园社区办公楼改造",
+		"area":"安庆",
+		"assessment":"0001",
+		"status": 0,
+		"allcount": 1000,
+		"notEnable": 500,
+		"enable": 500,
+		"checkCount":30,
+		"completePrice": "10000",
+		"notCompletePrice": "1000",
+		"registrar": "jack",
+		"type": "集体",
+		"note":"bbb",
+		"quality":1,
+		"purpose":1,
+		"use":1,
+		"notice":1,
+		"overPrice":1,
+		"valueTime":1,
+		"IsDiscount":1,
+		"discount":1,
+		"institutions":1,
+		"projectLeader":1,
+		"TechnicalLeader":1,
+		"assess":1
+	}
+}

@@ -1,0 +1,288 @@
+{
+	"code": 20000,
+	"msg": "请求成功",
+	"total": 30,
+	"data": [{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		},{
+			"evaluationNumber": "000001",
+			"houseUser": "李四",
+			"houseLocation": "南园社区化肥厂宿舍旧城区改建",
+			"assessor": "李四",
+			"technicalLeader": "李四",
+			"projectLeader": "李四",
+			"constructionArea": 1100,
+			"assessAmount": 1100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	},{
+		"rowNum": 1,
+		"number": "0001",
+		"name": "南园社区化肥厂宿舍旧城区改建",
+		"valueTime" : 11,
+		"registrar": 11,
+		"type": 11,
+		"allcount": 11,
+		"notCompletePrice": 100,
+		"CompletePrice": 100,
+		"notEnable": 100,
+		"trialListData":[{
+			"evaluationNumber": "000001",
+			"houseUser": "张三",
+			"houseLocation": "安宜镇齐心村",
+			"assessor": "张三",
+			"technicalLeader": "王小二",
+			"projectLeader": "王小二",
+			"constructionArea": 100,
+			"assessAmount": 100000
+		}]
+	}]
+}

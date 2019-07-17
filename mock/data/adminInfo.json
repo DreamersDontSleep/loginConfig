@@ -1,0 +1,87 @@
+{
+  "code": 20000,
+  "msg": "请求成功",
+  "data": {
+    "create_time": null,
+    "modify_time": null,
+    "id": 1,
+    "nick_name": "admin",
+    "pwd": null,
+    "job_number": "9527",
+    "user_name": "杜娇",
+    "position": "董事长",
+    "sex": "man",
+    "sex_name": "男",
+    "birth_date": "1990-1-1",
+    "hire_date": "2008-8-8",
+    "connact": "18104042345",
+    "emergency_contact": "18962435867",
+    "identity_number": "327498199001013452",
+    "in_service_state_name": "在职",
+    "in_service_state": 1,
+    "role_id": 1,
+    "role_name": "管理员",
+    "role": {
+      "create_time": null,
+      "modify_time": null,
+      "id": 1,
+      "code": "admin",
+      "name": "管理员",
+      "description": null,
+      "state": 0,
+      "permissions": [
+        {
+          "key": 0,
+          "value": "user.view",
+          "label": "用户管理",
+          "children": [
+            {
+              "key": 2,
+              "value": "user.add",
+              "label": "新增用户",
+              "children": []
+            },
+            {
+              "key": 3,
+              "value": "user.edit",
+              "label": "编辑用户",
+              "children": []
+            },
+            {
+              "key": 4,
+              "value": "user.delete",
+              "label": "删除用户",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": 5,
+          "value": "role.view",
+          "label": "角色管理",
+          "children": [
+            {
+              "key": 6,
+              "value": "role.add",
+              "label": "新增角色",
+              "children": []
+            },
+            {
+              "key": 7,
+              "value": "role.edit",
+              "label": "编辑角色",
+              "children": []
+            },
+            {
+              "key": 8,
+              "value": "role.delete",
+              "label": "删除角色",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "supplementary_limit": ""
+  }
+}

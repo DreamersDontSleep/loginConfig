@@ -1,0 +1,14 @@
+{
+  "code": 20000,
+  "msg": "请求成功",
+  "data": {
+    "cretetime": null,
+    "modifytime": "2018-09-05",
+    "id": 1,
+    "code": "admin",
+    "name": "管理员",
+    "description": "管理员",
+    "state": 1,
+    "permissions": null
+  }
+}

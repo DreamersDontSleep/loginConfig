@@ -1,0 +1,46 @@
+{
+  "code": 20000,
+  "msg": "请求成功",
+  "data": [
+    {
+      "cretetime": null,
+      "modifytime": "2018-09-05",
+      "id": 1,
+      "code": "admin",
+      "name": "管理员",
+      "description": "管理员",
+      "state": 1,
+      "permissions": null
+    },
+    {
+      "cretetime": null,
+      "modifytime": "2018-09-10",
+      "id": 2,
+      "code": "developer",
+      "name": "开发",
+      "description": "开发人员",
+      "state": 1,
+      "permissions": null
+    },
+    {
+      "cretetime": null,
+      "modifytime": "2018-09-05",
+      "id": 3,
+      "code": "tester",
+      "name": "测试",
+      "description": "测试人员",
+      "state": 1,
+      "permissions": null
+    },
+    {
+      "cretetime": null,
+      "modifytime": "2018-09-07",
+      "id": 4,
+      "code": "Operations",
+      "name": "运维",
+      "description": "运维人员",
+      "state": 1,
+      "permissions": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+	"code": 20000,
+	"msg": "请求成功",
+	"total": 30,
+	"data": {
+		"editForm": {
+			"name": "啊啊1",
+			"id": "啊啊2",
+			"hillNumber": "啊啊3",
+			"location": "啊啊4",
+			"houseOwner": "啊啊5",
+			"houseLessee": "啊啊6",
+			"certificateNumber": "啊啊7",
+			"totalBuildingArea": "啊啊8",
+			"isComplete": "啊啊11",
+			"type": "啊啊22",
+			"landUseWarrantNumber": "啊啊33",
+			"totalLandArea": "啊啊44",
+			"valueTime": "啊啊55",
+			"estateAppraiser": "啊啊55"
+		},
+		"priceAssem": [{
+			 "rowNum": 1,
+			 "coveredArea": "11",
+			 "levelStructure": "11",
+			 "whereLevel": "11",
+			 "toward": "11",
+			 "buildAge": "11",
+			 "standardHousePrice": "11",
+			 "structureCoefficient": 100,
+			 "asNewCoefficient": 100,
+			 "completeSetOfCoefficient": 100,
+			 "locationCoefficient": 100,
+			 "levelCoefficient": 100,
+			 "coefficient": 1,
+			 "towardCoefficient": 100,
+			 "correctionCoefficient": "11",
+			 "unitPrice": "11",
+			 "discountRate": "11",
+			 "totalPrice": "11"
+		}, {
+			 "rowNum": 2,
+			 "coveredArea": "",
+			 "levelStructure": "",
+			 "whereLevel": "",
+			 "toward": "",
+			 "buildAge": "",
+			 "standardHousePrice": "",
+			 "structureCoefficient": 100,
+			 "asNewCoefficient": 100,
+			 "completeSetOfCoefficient": 100,
+			 "locationCoefficient": 100,
+			 "levelCoefficient": 100,
+			 "towardCoefficient": 100,
+			 "correctionCoefficient": "",
+			 "unitPrice": "",
+			 "discountRate": "",
+			 "totalPrice": ""
+		}],
+		"totalPriceEvaluation": [{
+			"totalPriceHousingAppraisal": 1,
+			"landArea": 2,
+			"landPrice": 3,
+			"landTotalPrice": 4,
+			"totalAmountCompensation": 5,
+			"amountEquityCompensation": 6,
+			"amountTenantCompensation": 7,
+			"notes": "备注123"
+		}],
+		"tableDataDecorate": [{
+			"rowNum": 1,
+			"CompensationFromTheOwner": "",
+			"TenantCompensation": "",
+			"DecorateGrade": "",
+			"DecorateNew": "",
+			"DecorateTheUnitPrice": "",
+			"UnitPriceForDecorationCompensation": "",
+			"EvaluationCompensationUnitPprice": 100,
+			"SupplementaryCompensationUnitPrice": 100,
+			"ReducedTheUnitPrice": 100
+		}]
+	}
+}
