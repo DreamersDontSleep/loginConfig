@@ -32,7 +32,7 @@ export const constantRouterMap = [
     children: [{
       path: 'home',
       component: () => import('@/views/home/index'),
-      meta: { title: '首页', icon: '', permissions: [] }
+      meta: { title: '业务系统', icon: '', permissions: [] }
     }]
   }
 ]
@@ -50,6 +50,7 @@ export const asyncRouterMap = [
 	  noredirect: true,
 	  redirect: '/business/index',
 	  name: 'System',
+		hidden: true,
 	  meta: { title: '业务系统', permissions: [] },
 	  children: [{
 	    path: 'business/index',
@@ -64,6 +65,7 @@ export const asyncRouterMap = [
     noredirect: true,
     redirect: '/system/user/index',
     name: 'System',
+		hidden: true,
     meta: { title: '系统管理', permissions: ['role.view', 'user.view'] },
     children: [{
       path: 'user/index',

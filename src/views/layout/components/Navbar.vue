@@ -13,7 +13,7 @@
         <i class="el-icon-caret-bottom"/>
       </div> -->
       <el-button type="text">
-        {{ name }} <i class="el-icon-arrow-down el-icon--right" />
+        用户 <i class="el-icon-arrow-down el-icon--right" />
       </el-button>
       <el-dropdown-menu slot="dropdown" class="user-dropdown">
         <router-link class="inlineBlock" to="/">

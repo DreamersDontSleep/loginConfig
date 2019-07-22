@@ -44,14 +44,14 @@ export default {
   name: 'Login',
   data() {
     const validateUsername = (rule, value, callback) => {
-      if (!isvalidUsername(value)) {
-        callback(new Error('请输入正确的用户名'))
+      if (value.length < 2) {
+        callback(new Error('1'))
       } else {
         callback()
       }
     }
     const validatePass = (rule, value, callback) => {
-      if (value.length < 5) {
+      if (value.length < 2) {
         callback(new Error('密码不能小于5位'))
       } else {
         callback()
@@ -59,8 +59,8 @@ export default {
     }
     return {
       loginForm: {
-        username: 'admin',
-        password: 'admin'
+        username: '',
+        password: ''
       },
       loginRules: {
         username: [{ required: true, trigger: 'blur', validator: validateUsername }],
@@ -92,24 +92,14 @@ export default {
     handleLogin() {
       this.$refs.loginForm.validate(valid => {
         if (valid) {
-					let username = this.loginForm.username;
-					let password = this.loginForm.password;
-					login(username, password).then(res => {
-						console.log(res);
-						if(res.errCode == 200){
-							console.log(1)
 							this.loading = true
-							// this.$store.dispatch('Login', this.loginForm).then(() => {
-							//   this.loading = false
-							// 	console.log(2)
-							  this.$router.push('/')
-							// }).catch(() => {
-							//   this.loading = false
-							// })
-						}else{
-							alert(res.msg)
-						}
-					})
+							this.$store.dispatch('Login', this.loginForm).then(() => {
+							  this.loading = false
+							  this.$router.push({ path: this.redirect || '/'})
+							}).catch(() => {
+							  this.loading = false
+							})
+						
           
         } else {
           console.log('error submit!!')

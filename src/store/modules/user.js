@@ -36,22 +36,11 @@ const user = {
   actions: {
     // 登录
     Login({ commit }, userInfo) {
-      // const username = userInfo.username.trim()
+      const username = userInfo.username.trim()
       return new Promise((resolve, reject) => {
-        // 登陆模拟
-        // const response = {
-        //   'status': 1,
-        //   'msg': '请求成功',
-        //   'data': {
-        //     'token': 'JWT-TOKEN'
-        //   }
-        // }
-        // const data = response.data
-        // setToken(data.token)
-        // commit('SET_TOKEN', data.token)
-        // resolve()
         login(username, userInfo.password)
           .then(response => {
+						console.log(response)
             const data = response.data
             setToken(data.token)
             commit('SET_TOKEN', data.token)
@@ -75,7 +64,7 @@ const user = {
             'nick_name': 'admin',
             'pwd': null,
             'job_number': '9527',
-            'user_name': '杜娇',
+            'user_name': 'admin',
             'position': '董事长',
             'sex': 'man',
             'sex_name': '男',
